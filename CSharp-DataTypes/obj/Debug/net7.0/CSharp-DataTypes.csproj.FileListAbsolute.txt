@@ -1,0 +1,15 @@
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\bin\Debug\net7.0\CSharp-DataTypes.exe
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\bin\Debug\net7.0\CSharp-DataTypes.deps.json
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\bin\Debug\net7.0\CSharp-DataTypes.runtimeconfig.json
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\bin\Debug\net7.0\CSharp-DataTypes.dll
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\bin\Debug\net7.0\CSharp-DataTypes.pdb
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\CSharp-DataTypes.csproj.AssemblyReference.cache
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\CSharp-DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\CSharp-DataTypes.AssemblyInfoInputs.cache
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\CSharp-DataTypes.AssemblyInfo.cs
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\CSharp-DataTypes.csproj.CoreCompileInputs.cache
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\CSharp-DataTypes.dll
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\refint\CSharp-DataTypes.dll
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\CSharp-DataTypes.pdb
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\CSharp-DataTypes.genruntimeconfig.cache
+F:\CSharp-DataTypes\CSharp-DataTypes\CSharp-DataTypes\obj\Debug\net7.0\ref\CSharp-DataTypes.dll
